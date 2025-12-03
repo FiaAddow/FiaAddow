@@ -1,31 +1,24 @@
-<h1 align="center">Hi 👋, I'm Farhia Addow</h1>
-<h3 align="center">A passionate frontend developer from Norway</h3>
+### A passionate frontend developer from Norway
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiaaddow&label=Profile%20views&color=0e75b6&style=flat" alt="fiaaddow" /> </p>
+🔭 I’m currently working on **Portfolio**
 
+🌱 I’m currently learning **Content Management Systems**
 
+💬 Ask me about **HTML, CSS, JS, WordPress**
 
-- 🔭 I’m currently working on **Portofolio**
+📫 How to reach me: **farhia.Dahir.addow@gmail.com**
 
-- 🌱 I’m currently learning **Content Management Systems**
+⚡ Fun fact: **There are programmers out there who suck worse than you — with a full‑time job, programming!**
 
-- 💬 Ask me about **Html, css,js,WP**
+### Connect with me
+- **GitHub:** [fiaaddow](https://camo.githubusercontent.com/09b908f28564949a7e51b56357b2153b8319862006242c476ef75a98f0a922eb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6669616164646f77266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+- **LinkedIn:** [farhia d addow](https://linkedin.com/in/farhia%20d%20addow)
+- **Portfolio / profile links:** [farhia d addow](https://fb.com/farhia%20d%20addow)
+- **Discord:** **#4348** (if you want this public)
 
-- 📫 How to reach me **farhia.Dahir.addow@gmail.com**
+### Languages and Tools
+HTML5 · CSS3 · JavaScript · React · Vue · Tailwind CSS · WordPress · Node.js · PHP · MySQL · Figma · Adobe XD · Photoshop
 
-- ⚡ Fun fact **There is a programmers out there, that sucks worse than you. With a full time job, PROGRAMMING!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/farhia d addow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhia d addow" height="30" width="40" /></a>
-<a href="https://fb.com/farhia d addow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhia d addow" height="30" width="40" /></a>
-<a href="https://instagram.com/fiaaddow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiaaddow" height="30" width="40" /></a>
-<a href="https://discord.gg/#4348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4348" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/farhiadahis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farhiadahis" /></a></p><br><br>
+### Support
+[farhiadahis](https://www.buymeacoffee.com/farhiadahis)
 
