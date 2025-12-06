@@ -1,39 +1,92 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiaaddow&label=Profile%20views&color=0e75b6&style=flat" alt="fiaaddow" /> </p>
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/AvJZQnZ.png" width="100%" alt="Farhia Banner"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiaaddow" alt="fiaaddow" /></a> </p>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Farhia+D.+Addow;Frontend+Developer+from+Norway;Creative+Coder+%7C+UI+Designer;Boss+Lady+Energy+Only+%F0%9F%92%8B;Welcome+to+my+GitHub!">
+</p>
 
-- 🔭 I’m currently working on **Portofolio**
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fiaaddow&label=Profile+Views&color=ff69b4&style=flat" />
+</p>
 
-@@ -29,6 +29,3 @@
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/farhiadahis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farhiadahis" /></a></p><br><br>
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fiaaddow&theme=dracula&no-frame=true&margin-w=15&row=1" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiaaddow&show_icons=true&locale=en&layout=compact" alt="fiaaddow" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiaaddow&show_icons=true&locale=en" alt="fiaaddow" /></p>
+# <p align="center">✨ About Me ✨</p>
 
+### 👩‍💻 **Farhia D. Addow — Frontend Developer**
 
-### A passionate frontend developer from Norway
+- 🔭 Currently building: **My Portfolio**  
+- 🌱 Learning: **WordPress, Headless CMS, Advanced React**  
+- 💬 Ask me about: **HTML, CSS, JS, TypeScript, WordPress, React**  
+- 📫 Email: **farhia.dahir.addow@gmail.com**  
+- ⚡ Fun fact:  
+  *There are programmers out there who suck worse than you — with a full-time job, programming!*  
+  *(Let that motivate you 😎)*  
 
-🔭 I’m currently working on **Portfolio**
+---
 
-🌱 I’m currently learning **Content Management Systems**
+# <p align="center">🛠 Tech Stack</p>
 
-💬 Ask me about **HTML, CSS, JS, WordPress**
+### **Frontend**
+HTML5 · CSS3 · SASS/SCSS · JavaScript · TypeScript · React · Next.js · Vue · Nuxt · Tailwind CSS
 
-📫 How to reach me: **farhia.Dahir.addow@gmail.com**
+### **Backend / Fullstack**
+Node.js · Express · PHP · MySQL · MongoDB · REST APIs
 
-⚡ Fun fact: **There are programmers out there who suck worse than you — with a full‑time job, programming!**
+### **CMS & Tools**
+WordPress · Headless CMS (Sanity, Strapi) · Git · GitHub
 
-### Connect with me
-- **GitHub:** [fiaaddow](https://camo.githubusercontent.com/09b908f28564949a7e51b56357b2153b8319862006242c476ef75a98f0a922eb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6669616164646f77266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
-- **LinkedIn:** [farhia d addow](https://linkedin.com/in/farhia%20d%20addow)
-- **Portfolio / profile links:** [farhia d addow](https://fb.com/farhia%20d%20addow)
-- **Discord:** **#4348** (if you want this public)
+### **UI/UX & Design**
+Figma · Adobe XD · Photoshop
 
-### Languages and Tools
-HTML5 · CSS3 · JavaScript · React · Vue · Tailwind CSS · WordPress · Node.js · PHP · MySQL · Figma · Adobe XD · Photoshop
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,vue,nuxt,tailwind,nodejs,php,mysql,mongo,figma,xd,ps,git,github" />
+</p>
 
-### Support
-[farhiadahis](https://www.buymeacoffee.com/farhiadahis)
+---
 
+# <p align="center">📊 GitHub Stats</p>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fiaaddow&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiaaddow&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fiaaddow&theme=tokyonight" />
+
+</div>
+
+---
+
+# <p align="center">🌐 Connect With Me</p>
+
+<p align="center">
+  <a href="https://github.com/fiaaddow"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://linkedin.com/in/farhia%20d%20addow"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="mailto:farhia.dahir.addow@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <img src="https://img.shields.io/badge/Discord-4348-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40">
+</p>
+
+---
+
+# <p align="center">☕ Support My Work</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/farhiadahis">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+  </a>
+</p>
+
+---
+
+# <p align="center">✨ Made with ❤️ by Farhia ✨</p>
