@@ -1,3 +1,18 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiaaddow&label=Profile%20views&color=0e75b6&style=flat" alt="fiaaddow" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiaaddow" alt="fiaaddow" /></a> </p>
+
+- 🔭 I’m currently working on **Portofolio**
+
+@@ -29,6 +29,3 @@
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/farhiadahis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farhiadahis" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiaaddow&show_icons=true&locale=en&layout=compact" alt="fiaaddow" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiaaddow&show_icons=true&locale=en" alt="fiaaddow" /></p>
+
+
 ### A passionate frontend developer from Norway
 
 🔭 I’m currently working on **Portfolio**
