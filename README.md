@@ -1,7 +1,4 @@
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/AvJZQnZ.png" width="100%" alt="Farhia Banner"/>
-</p>
+
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -72,7 +69,7 @@ Figma · Adobe XD · Photoshop
 
 <p align="center">
   <a href="https://github.com/fiaaddow"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="https://linkedin.com/in/farhia%20d%20addow"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://https://www.linkedin.com/in/fiaa-sens-804533271 (https://buymeacoffee.com)"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
   <a href="mailto:farhia.dahir.addow@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
   <img src="https://img.shields.io/badge/Discord-4348-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40">
 </p>
